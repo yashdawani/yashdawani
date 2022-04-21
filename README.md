@@ -26,7 +26,7 @@ I have been coding for the better part of the last decade. I started off my codi
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-<a href="https://app.daily.dev/ydawani"><img src="https://api.daily.dev/devcards/a72c83fe831d4e7b9eadbc379653b839.png?r=d8o" width="400" alt="Yash Dawani's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/ydawani"><img src="https://api.daily.dev/devcards/a72c83fe831d4e7b9eadbc379653b839.png?r=d8o" width="400" alt="Yash Dawani's Dev Card"/></a> -->
 
 ### Socials
 
