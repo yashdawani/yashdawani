@@ -12,7 +12,7 @@ I have been coding for the better part of the last decade. I started off my codi
 
 * 🌍  I'm based in Sydney, Australia
 * ✉️  You can contact me at [Yashdawani386@gmail.com](mailto:Yashdawani386@gmail.com)
-* 🧠  I'm learning Ruby on rails, Node.js, Scipy
+* 🧠  I'm learning React JS, and advancing my knowledge set on Software Architectural Patterns
 * ⚡  I do love an occasional round of Table Tennis. If you are in Sydney and in mood for a round, let me know.
 
 ### Skills
